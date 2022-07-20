@@ -1,5 +1,5 @@
 - Hi, I’m Hannah Madsen!
-- I’m currently working on my Bachelor's in computer science with a minor in data science (graduation May 2022)
+- I’m recently gradauted with my Bachelor's in computer science and a minor in data science (graduation May 2022)
 - Soon to be Microsoft SDE (August 2022)!
 
 <!---
